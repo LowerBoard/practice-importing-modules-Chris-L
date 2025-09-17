@@ -1,0 +1,20 @@
+{
+  "name": "practice-importing-modules-chris-l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LowerBoard/practice-importing-modules-Chris-L.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LowerBoard/practice-importing-modules-Chris-L/issues"
+  },
+  "homepage": "https://github.com/LowerBoard/practice-importing-modules-Chris-L#readme"
+}
