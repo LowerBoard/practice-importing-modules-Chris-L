@@ -1,7 +1,6 @@
 const path = require('path');
 const taskManager = require('./taskManager');
 const fileHandler = require('./fileHandler');
-const { takeCoverage } = require('v8');
 
 
 const filePath = path.join(__dirname, 'tasks.json');
